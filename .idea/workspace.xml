@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="140" column="67" lean-forward="true" selection-start-line="140" selection-start-column="67" selection-end-line="140" selection-end-column="67" />
+            <state relative-caret-position="515">
+              <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -26,8 +26,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="369" column="37" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="37" />
+            <state relative-caret-position="-633">
+              <caret line="384" column="23" selection-start-line="384" selection-start-column="17" selection-end-line="384" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -43,29 +43,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>span</find>
       <find>achive</find>
       <find>h2</find>
       <find>about</find>
       <find>section-ti</find>
       <find>upper</find>
       <find>achi</find>
-      <find>navbar</find>
-      <find>header</find>
       <find>footer</find>
       <find>btn-custom</find>
       <find>about-text</find>
       <find>btn</find>
-      <find>img</find>
       <find>hr</find>
       <find>short</find>
+      <find>header</find>
+      <find>span</find>
+      <find>navbar-brand</find>
+      <find>@</find>
+      <find>img</find>
+      <find>navbar</find>
+      <find>intro</find>
+      <find>logo</find>
+      <find>copertina</find>
+      <find>font</find>
+      <find>ralewa</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/questionario 1.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -112,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Copy of toni.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -144,16 +151,17 @@
       <workItem from="1528648243145" duration="1819000" />
       <workItem from="1528721054383" duration="224000" />
       <workItem from="1528891221588" duration="2061000" />
-      <workItem from="1528893360109" duration="379000" />
+      <workItem from="1528893360109" duration="979000" />
+      <workItem from="1528907914724" duration="2452000" />
+      <workItem from="1528910512380" duration="176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13367000" />
+    <option name="totallyTimeSpent" value="16595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16126901" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -183,6 +191,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="10" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9605">
+          <caret line="565" column="65" selection-start-line="565" selection-start-column="65" selection-end-line="565" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="67" lean-forward="true" selection-start-line="140" selection-start-column="67" selection-end-line="140" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6273">
+          <caret line="369" column="37" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="41" column="49" lean-forward="true" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
         </state>
@@ -192,9 +228,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2261">
           <caret line="61" column="41" lean-forward="true" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -334,23 +367,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2261">
           <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="369" column="37" selection-start-line="369" selection-start-column="35" selection-end-line="369" selection-end-column="37" />
+        <state relative-caret-position="-633">
+          <caret line="384" column="23" selection-start-line="384" selection-start-column="17" selection-end-line="384" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="140" column="67" lean-forward="true" selection-start-line="140" selection-start-column="67" selection-end-line="140" selection-end-column="67" />
+        <state relative-caret-position="515">
+          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
         </state>
       </provider>
     </entry>

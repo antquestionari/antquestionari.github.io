@@ -32,11 +32,12 @@ p.intro {
 	line-height: 24px;
 }
 a {
-	color: #C54DAA;
+	color: #000000;
 }
 a:hover, a:focus {
 	text-decoration: none;
 	color: #222;
+	background-color: white;
 }
 ul, ol {
 	list-style: none;
@@ -75,7 +76,7 @@ hr {
 }
 /* Navigation */
 #menu {
-	padding: 25px;
+	padding: 2%;
 	transition: all 0.8s;
 }
 #menu.navbar-default {
@@ -83,12 +84,13 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
-	font-size: 20px;
+	font-size: 10px;
 	color: rgba(0, 0, 0, 0.8);
 	font-weight: 700;
 	text-transform: uppercase;
 
 }
+
 #menu a.navbar-brand:hover {
 	color: #000000;
 }
@@ -104,18 +106,23 @@ hr {
 }
 .on {
 	background-color: white !important;
-	padding: 10px !important;
+	padding: 20px !important;
+}
+
+.navbar-default .navbar-nav  a, .navbar-default .navbar-nav a:hover, .navbar-default .navbar-nav a:focus {
+	color: #000000 !important;
+	background-color: white;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #2c823d !important;
-	background-color: transparent;
+	color: #000000 !important;
+	background-color: white;
 }
 .navbar-toggle {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #C54DAA;
-	border-color: #C54DAA;
+	background-color: rgba(0, 0, 0, 0.57);
+	border-color: rgba(0, 0, 0, 0.56);
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -166,7 +173,7 @@ hr {
 }
 .intro h1 {
 	color: rgba(255,255,255,0.9);
-	font-size: 72px;
+	font-size: 5em;
 	font-weight: 800;
 	letter-spacing: -1px;
 	text-transform: uppercase;
@@ -182,13 +189,13 @@ hr {
 }
 .intro span {
 	color: rgb(255, 249, 250);
-	font-size: 45px;
+	font-size: 3em;
 	font-weight: 400;
 }
 header .intro-text {
-	padding-top: 250px;
+	padding-top: 30%;
 	padding-bottom: 200px;
-	padding-left: 100px;
+	padding-left: 8%;
 }
 /* About Section */
 #about {
@@ -535,7 +542,31 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 @media (max-width: 1024px) {
 #about img {
-	float: left;
-	margin-bottom: 20px;
+	display:none;
 }
 }
+
+@media (max-width: 1024px) {
+	#menu  {
+		max-height:70px;
+	}
+}
+
+@media (max-width: 1024px) {
+	#menu  {
+	display:none;
+	}
+}
+@media (max-width: 1024px) {
+.intro {
+	display: table;
+	width: 100%;
+	min-height: 20px;
+	padding: 0;
+	background: url(../img/copertina.jpg) no-repeat center bottom;
+	background-color: #e5e5e5;
+
+	position: center;
+}}
+
+
